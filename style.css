@@ -189,12 +189,7 @@ header{
   background:linear-gradient(90deg,var(--orange),var(--yellow));
   -webkit-background-clip:text;-webkit-text-fill-color:transparent;
 }
-.typewriter-cursor{
-  display:inline-block;
-  color:var(--orange);
-  font-weight:300;
-  margin-left:1px;
-}
+
 .hero-desc{
   font-size:15px;line-height:1.9;
   color:var(--text-light);max-width:460px;margin-bottom:40px;
